@@ -1,14 +1,17 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*  
-> **Comunidade:** *(preencher)*
+> **Grupo:** *Cecilia Teresa Bernardes
+>             Domiciano Gabriel Negrini Vieira
+>             Gabriela Campos Dias*  
+> **Aplicação:** *Dicionário Interativo de Valores em Libras*  
+> **Comunidade:** *Tarso de Coimbra*
 
 ---
 
 ## 1. Visão Geral
 
-(Descreva em poucas frases o que é a aplicação, para quem ela é destinada e qual problema ela resolve.)
+A aplicação consiste em um dicionário interativo de valores, onde cada valor (como respeito, empatia e gentileza) é representado por um botão na interface. Ao clicar em um valor, o usuário visualiza um vídeo com o sinal correspondente em Libras.
+O sistema é destinado principalmente à comunidade surda e a pessoas que desejam aprender Libras de forma acessível, prática e visual. O problema que a aplicação resolve é a dificuldade de acesso a conteúdos educativos visuais sobre valores em Libras.
 
 ## 2. Público-Alvo
 
