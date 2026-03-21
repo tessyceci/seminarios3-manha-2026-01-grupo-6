@@ -28,11 +28,9 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | | *(Alta/Média/Baixa)* | *(Reunião com a comunidade em DD/MM)* |
-| RF02 | | | |
-| RF03 | | | |
-| RF04 | | | |
-| RF05 | | | |
+| RF01 |Exibir lista de valores em forma de botões na tela inicial | *Alta* | *(Reunião com a comunidade em 06/03)* |
+| RF02 |Permitir ao usuário clicar em um valor | *Alta* | *(Reunião com a comunidade em 06/03)* |
+| RF03 |Exibir vídeo em Libras correspondente ao valor selecionado | *Alta* | *(Reunião com a comunidade em 06/03)* |
 
 ## 4. Requisitos Não Funcionais
 
@@ -41,8 +39,8 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 | RNF01 | A aplicação deve ser acessível via navegador web | Acessibilidade |
 | RNF02 | A interface deve ser simples e intuitiva | Usabilidade |
 | RNF03 | A aplicação deve funcionar em dispositivos móveis | Compatibilidade |
-| RNF04 | | |
-| RNF05 | | |
+| RNF04 | A aplicação deve ter boa organização visual e responsividade | Usabilidade |
+| RNF05 | Os vídeos devem carregar rapidamente | Desempenho |
 
 ## 5. Requisitos de Acessibilidade
 
@@ -73,11 +71,13 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 
 (Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
 
-- [ ] *Exibição dos valores em botões*
-- [ ] *Clique no botão para selecionar valor*
-- [ ] *Exibição de vídeo em libras correspondente*
+- [x] *Exibição dos valores em botões*
+- [x] *Clique no botão para selecionar valor*
+- [x] *Exibição de vídeo em libras correspondente*
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-- *(Funcionalidade extra 1)*
-- *(Funcionalidade extra 2)*
+- *Adicionar descrição textual do valor*
+- *Sistema de busca por valores*
+- *Favoritar valores*
+- *Adicionar mais categorias (emoções, ações, etc.)*
