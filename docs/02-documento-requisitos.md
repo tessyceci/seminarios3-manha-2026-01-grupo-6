@@ -17,10 +17,10 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 
 | Campo | Informação |
 | ------- | ----------- |
-| Perfil dos usuários | |
-| Faixa etária | |
-| Necessidades de acessibilidade | |
-| Nível de familiaridade com tecnologia | |
+| Perfil dos usuários |Pessoas surdas, estudantes, professores e iniciantes em Libras|
+| Faixa etária |A partir de 10 anos|
+| Necessidades de acessibilidade |Conteúdo visual, vídeos em Libras, interface simples e intuitiva|
+| Nível de familiaridade com tecnologia |Básico|
 
 > **Lembrete (Tarso de Coimbra):** Os usuários podem ter deficiência auditiva/surdez. A interface deve ser **visual, intuitiva e de baixa complexidade**. Priorize elementos visuais (imagens, ícones, cores) sobre texto extenso.
 
@@ -46,19 +46,19 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 
 ## 5. Requisitos de Acessibilidade
 
-- [ ] Interface predominantemente visual (ícones, cores, imagens)
-- [ ] Textos curtos e objetivos
-- [ ] Botões grandes e identificáveis
-- [ ] Contraste adequado de cores
-- [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
-- [ ] Sem dependência de áudio para funcionalidades essenciais
-- [ ] Outro: *(especificar)*
+- [x] Interface predominantemente visual (ícones, cores, imagens)
+- [x] Textos curtos e objetivos
+- [x] Botões grandes e identificáveis
+- [x] Contraste adequado de cores
+- [x] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
+- [x] Sem dependência de áudio para funcionalidades essenciais
+- [x] Outro: *(especificar)*
 
 ## 6. Tecnologias Escolhidas
 
 | Componente | Tecnologia |
 | ----------- | ----------- |
-| Front-end | |
+| Front-end |HTML, CSS e JavaScript|
 | Back-end (se houver) | |
 | Banco de dados (se houver) | |
 | Hospedagem | |
@@ -66,15 +66,16 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 
 ## 7. Protótipo / Wireframes
 
-(Inclua esboços das telas principais ou links para protótipos — mesmo rascunhos simples em papel são válidos. Salvem imagens dos wireframes em `evidencias/prints/`.)
+<img width="1440" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f167d79-a198-4efa-b147-6a704247fb0a" />
+
 
 ## 8. Escopo Mínimo Viável (MVP)
 
 (Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
 
-- [ ] *(Funcionalidade 1)*
-- [ ] *(Funcionalidade 2)*
-- [ ] *(Funcionalidade 3)*
+- [ ] *Exibição dos valores em botões*
+- [ ] *Clique no botão para selecionar valor*
+- [ ] *Exibição de vídeo em libras correspondente*
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
