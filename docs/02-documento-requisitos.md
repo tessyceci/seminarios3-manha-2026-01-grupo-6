@@ -1,7 +1,7 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** *Cecilia Teresa Bernardes
->             Domiciano Gabriel Negrini Vieira
+> **Grupo:** *Cecilia Teresa Bernardes,
+>             Domiciano Gabriel Negrini Vieira,
 >             Gabriela Campos Dias*  
 > **Aplicação:** *Dicionário Interativo de Valores em Libras*  
 > **Comunidade:** *Tarso de Coimbra*
