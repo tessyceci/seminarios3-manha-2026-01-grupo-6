@@ -50,7 +50,7 @@ O sistema é destinado principalmente à comunidade surda e a pessoas que deseja
 - [x] Contraste adequado de cores
 - [x] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
-- [x] Outro: *(especificar)*
+
 
 ## 6. Tecnologias Escolhidas
 
